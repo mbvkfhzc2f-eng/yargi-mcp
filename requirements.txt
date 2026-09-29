@@ -1,6 +1,6 @@
-fastmcp
+fastmcp==2.3.4
 httpx
 beautifulsoup4
 markitdown
-pydantic
-aiohttp 
+pydantic<2.11
+aiohttp
